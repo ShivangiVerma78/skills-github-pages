@@ -1,7 +1,7 @@
 ---
 title: Welcome to my blog
 ---
-##Howdy
+Howdy!
 ---
 **How are you**
 ---
